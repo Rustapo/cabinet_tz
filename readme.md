@@ -107,6 +107,7 @@ _Updates:_ Отображается «Древо процесса» (Этапы 
 ![Пользователю](https://github.com/Rustapo/pro_tz/blob/master/2.jpg)
 **_d)_** При создании процесса создается этап и стадия одновременно. Процесс не может быть без этапа. Этап не может быть без стадии. Порядок и количество этапов и стадий не фиксирован. Название этапов и стадий указано в [таблице](https://github.com/Rustapo/pro_tz/blob/master/1.xlsx).
 ![Админу](https://github.com/Rustapo/pro_tz/blob/master/3.jpg)
+![Админу](https://github.com/Rustapo/cabinet_tz/blob/master/6.jpg)
 ![Админу](https://github.com/Rustapo/pro_tz/blob/master/4.jpg)
 **_e)_** При редактировании процесса (этапа, стадии) - открывается форма с подставленными данными из БД. При изменении поля, соответственно вносится изменения.
 ![Админу](https://github.com/Rustapo/pro_tz/blob/master/5.jpg)
