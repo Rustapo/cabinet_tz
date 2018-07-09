@@ -141,6 +141,22 @@ _Timeline:_ Суммарное отображение данных всех пр
    Модифицированный поиск (searchimport.php и searchmoh.php) страница поиска по БД по данным полученные после парсинга xls файла в БД. Скрипт готовый, нужно прикрутить к кабинету.
 
 ---
+## Ожидаемый результат (фронтенд):
+![Админу](https://github.com/Rustapo/pro_tz/blob/master/1a.jpg)
+![Админу](https://github.com/Rustapo/pro_tz/blob/master/1b.jpg)
+![Админу](https://github.com/Rustapo/pro_tz/blob/master/2a.jpg)
+![Админу](https://github.com/Rustapo/pro_tz/blob/master/2b.jpg)
+![Админу](https://github.com/Rustapo/pro_tz/blob/master/3a.jpg)
+![Админу](https://github.com/Rustapo/pro_tz/blob/master/4a.jpg)
+![Админу](https://github.com/Rustapo/pro_tz/blob/master/4b.jpg)
+![Админу](https://github.com/Rustapo/pro_tz/blob/master/5a.jpg)
+![Админу](https://github.com/Rustapo/pro_tz/blob/master/6a.jpg)
+![Админу](https://github.com/Rustapo/pro_tz/blob/master/7a.jpg)
+![Админу](https://github.com/Rustapo/pro_tz/blob/master/7b.jpg)
+![Админу](https://github.com/Rustapo/pro_tz/blob/master/8a.jpg)
+![Админу](https://github.com/Rustapo/pro_tz/blob/master/8b.jpg)
+
+---
 ## Дополнительный функционал:
    В дальнейшей поддержке потребуется добавление новых функций
    - матрица Эйзенхауэра
